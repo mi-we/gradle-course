@@ -1,0 +1,17 @@
+= Gradle course [DRAFT]
+
+This is the official script to the Gradle course.
+
+:toc:
+
+== Goals
+
+After this course you should...
+
+* have a basic understanding about key features of Gradle
+* be able to analyze a Gradle build and trooubleshoot it
+* know about ways to improve an existing Gradle build
+
+== Prerequisites
+
+Here we should define a basic training or tutorial for Gradle that serves as a baseline.
