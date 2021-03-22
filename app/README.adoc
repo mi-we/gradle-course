@@ -1,3 +1,0 @@
-= Gradle course exerise application [DRAFT]
-
-This directory contains the application that is used for the exercises in this course.

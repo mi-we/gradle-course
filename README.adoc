@@ -3,5 +3,3 @@
 IMPORTANT: This repository is currently in a WIP state and should not yet be used as an information resource quite yet.
 
 The script and further documentation can be found in the `docs` directory.
-
-The application used for the course can be found in the `app` directory.
